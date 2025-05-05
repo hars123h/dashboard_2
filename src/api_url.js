@@ -1,7 +1,7 @@
 // const BASE_URL = "http://localhost:8000/api";
 // const BASE_URL = "https://sungrow-api.onrender.com/api";
 // const BASE_URL = "https://whale-app-rqcs6.ondigitalocean.app/api";
-const BASE_URL = "https://sun-pharma.tech/api";
+const BASE_URL = "https://nrn-wealth.in/api";
 // const BASE_URL = 'https://shark-app-t9hh3.ondigitalocean.app/api'
 export default BASE_URL;
 
